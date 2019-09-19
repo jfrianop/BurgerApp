@@ -1,5 +1,6 @@
 html, body{
     width: 350px;
+    margin: 0 auto;
     font-family: 'Roboto', sans-serif;
     font-size:14px;
     height: 99%;
